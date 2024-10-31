@@ -4,4 +4,4 @@
 ## Стек технологий:
 - Python
 ---
-Api для изображений предоставлены сервисами [The Cat API](https://thecatapi.com/) и [The Dog API](https://thedogapi.com/)
+Изображения предоставлены API-сервисами [The Cat API](https://thecatapi.com/) и [The Dog API](https://thedogapi.com/)
